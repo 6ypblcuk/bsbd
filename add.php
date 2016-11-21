@@ -129,29 +129,6 @@ if ($action == "pills")
 		make_answer($result);
 	};
 }
-if ($action == "regist")
-{
-	$email = $_GET['email']; 
-	$password = $_GET['password'];
-	$bday = $_GET['bday'];
-	$address = $_GET['address'];
-	$phonenum = $_GET['phonenum'];
-	$info = $_GET['info'];
-	$job = $_GET['workplace'];
-	$fio = $_GET['fullname'];
-	$role = 'user';
-	$sql="SELECT * FROM users WHERE email='$email'";  
-	$result=mysql_query($sql); 
-	$counts=mysql_num_rows($result);
-	if($counts==0){
-		$document_get = mysql_query("insert into users (email,password,reg_date,address,phone,bday,workplace,fullname,info,role) values ('$email',md5('$password'),now(),'$address','$phonenum',str_to_date('$bday','%d.%m.%Y %H:%i:%s'),'$job','$fio','$info','$role')");
-		$result = (array(  'error'=> "success"));
-		make_answer($result);
-	}
-	else {
-		$result = (array(  'error'=> "error"));
-		make_answer($result);
-	};
-}
+
  
 ?> 
