@@ -1,0 +1,125 @@
+E:\Kursach\Kursach\bin\Debug\Kursach.exe.config
+E:\Kursach\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+E:\Kursach\Kursach\obj\Debug\Kursach.main_form.resources
+E:\Kursach\Kursach\obj\Debug\Kursach.Pills_table.resources
+E:\Kursach\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+E:\Kursach\Kursach\obj\Debug\Kursach.csproj.GenerateResource.Cache
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\bin\Debug\Kursach.exe.config
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\bin\Debug\Kursach.exe
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\bin\Debug\Kursach.pdb
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\bin\Debug\mysql.data.dll
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\bin\Debug\mysql.data.entity.dll
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\bin\Debug\mysql.visualstudio.dll
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\bin\Debug\mysql.web.dll
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\obj\Debug\Kursach.add_pills.resources
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\obj\Debug\Kursach.composition.resources
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\obj\Debug\Kursach.disease.resources
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\obj\Debug\Kursach.price.resources
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\obj\Debug\Kursach.enter.resources
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\obj\Debug\Kursach.firms.resources
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\obj\Debug\Kursach.subuse.resources
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\obj\Debug\Kursach.drugs.resources
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\obj\Debug\Kursach.order_content.resources
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\obj\Debug\Kursach.order_drugs.resources
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\obj\Debug\Kursach.regist.resources
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\obj\Debug\Kursach.search_drugs.resources
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\obj\Debug\Kursach.search_firm.resources
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\obj\Debug\Kursach.csproj.GenerateResource.Cache
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\obj\Debug\Kursach.exe
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\obj\Debug\Kursach.pdb
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\obj\Debug\Kursach.pharma.resources
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+E:\5S\курсач бсбд\Kursach (2)\Kursach\Kursach\obj\Debug\Kursach.pharma_for_empl.resources
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\bin\Debug\Kursach.exe.config
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\obj\Debug\Kursach.exe
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\obj\Debug\Kursach.pdb
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\bin\Debug\Kursach.exe
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\bin\Debug\Kursach.pdb
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\bin\Debug\mysql.data.dll
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\bin\Debug\mysql.data.entity.dll
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\bin\Debug\mysql.visualstudio.dll
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\bin\Debug\mysql.web.dll
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\obj\Debug\Kursach.add_pills.resources
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\obj\Debug\Kursach.composition.resources
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\obj\Debug\Kursach.disease.resources
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\obj\Debug\Kursach.pharma_for_empl.resources
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\obj\Debug\Kursach.price.resources
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\obj\Debug\Kursach.enter.resources
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\obj\Debug\Kursach.firms.resources
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\obj\Debug\Kursach.subuse.resources
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\obj\Debug\Kursach.pharma.resources
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\obj\Debug\Kursach.drugs.resources
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\obj\Debug\Kursach.order_content.resources
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\obj\Debug\Kursach.order_drugs.resources
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\obj\Debug\Kursach.regist.resources
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\obj\Debug\Kursach.search_drugs.resources
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\obj\Debug\Kursach.search_firm.resources
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\obj\Debug\Kursach.csproj.GenerateResource.Cache
+E:\5S\курсач бсбд\Kursach\Kursach\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+E:\5S\курсач бсбд\Kursach - копия\Kursach\bin\Debug\Kursach.exe.config
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.exe
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.pdb
+E:\5S\курсач бсбд\Kursach - копия\Kursach\bin\Debug\Kursach.exe
+E:\5S\курсач бсбд\Kursach - копия\Kursach\bin\Debug\Kursach.pdb
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.add_pills.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.disease.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.pharma_for_empl.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.price.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.enter.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.firms.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.pharma.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.drugs.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.order_content.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.order_drugs.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.regist.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.search_drugs.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.search_firm.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.csproj.GenerateResource.Cache
+E:\5S\курсач бсбд\Kursach - копия\Kursach\bin\Debug\Newtonsoft.Json.dll
+E:\5S\курсач бсбд\Kursach - копия\Kursach\bin\Debug\Newtonsoft.Json.xml
+E:\5S\курсач бсбд\Kursach - копия\Kursach\bin\Debug\System.Windows.Controls.dll
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.order_drugs_for_empl.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.add_disease.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.add_firm.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.add_price.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.drug_composition.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.price_change.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.user_editinfo.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.user_showinfo.resources
+E:\5S\курсач бсбд\Kursach - копия\Kursach\obj\Debug\Kursach.drugs_subuse.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\bin\Debug\Kursach.exe.config
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.exe
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.pdb
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\bin\Debug\Kursach.exe
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\bin\Debug\Kursach.pdb
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\bin\Debug\Newtonsoft.Json.dll
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\bin\Debug\Newtonsoft.Json.xml
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.add_disease.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.add_firm.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.add_pills.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.add_price.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.drug_composition.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.disease.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.price_change.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.user_editinfo.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.order_drugs_for_empl.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.pharma_for_empl.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.price.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.enter.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.firms.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.user_showinfo.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.drugs_subuse.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.pharma.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.drugs.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.order_content.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.order_drugs.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.regist.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.search_drugs.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.search_firm.resources
+D:\загрузки с google\KURSOVAYa\Kursach - копия\Kursach\obj\Debug\Kursach.csproj.GenerateResource.Cache
