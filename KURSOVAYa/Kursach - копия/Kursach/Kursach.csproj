@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{372B8B24-4E99-41D6-B678-E32580735DCD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Kursach</RootNamespace>
+    <AssemblyName>Kursach</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mysql.data">
+      <HintPath>..\..\..\..\mysql-connector-net-6.0.7-noinstall\mysql.data.dll</HintPath>
+    </Reference>
+    <Reference Include="mysql.data.entity">
+      <HintPath>..\..\..\..\mysql-connector-net-6.0.7-noinstall\mysql.data.entity.dll</HintPath>
+    </Reference>
+    <Reference Include="mysql.visualstudio">
+      <HintPath>..\..\..\..\mysql-connector-net-6.0.7-noinstall\mysql.visualstudio.dll</HintPath>
+    </Reference>
+    <Reference Include="mysql.web">
+      <HintPath>..\..\..\..\mysql-connector-net-6.0.7-noinstall\mysql.web.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.8\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Collections.Concurrent" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Globalization" />
+    <Reference Include="System.IdentityModel" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Windows.Controls">
+      <HintPath>..\..\..\mysql-connector-net-6.0.7-noinstall\System.Windows.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="add_disease.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_disease.Designer.cs">
+      <DependentUpon>add_disease.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_firm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_firm.Designer.cs">
+      <DependentUpon>add_firm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_pills.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_pills.Designer.cs">
+      <DependentUpon>add_pills.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_price.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_price.Designer.cs">
+      <DependentUpon>add_price.cs</DependentUpon>
+    </Compile>
+    <Compile Include="drug_composition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="drug_composition.Designer.cs">
+      <DependentUpon>drug_composition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="disease.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="disease.Designer.cs">
+      <DependentUpon>disease.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_editinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user_editinfo.Designer.cs">
+      <DependentUpon>user_editinfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="order_drugs_for_empl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="order_drugs_for_empl.Designer.cs">
+      <DependentUpon>order_drugs_for_empl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pharma_for_empl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pharma_for_empl.Designer.cs">
+      <DependentUpon>pharma_for_empl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="price.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="price.Designer.cs">
+      <DependentUpon>price.cs</DependentUpon>
+    </Compile>
+    <Compile Include="enter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enter.Designer.cs">
+      <DependentUpon>enter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="firms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="firms.Designer.cs">
+      <DependentUpon>firms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="price_change.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="price_change.Designer.cs">
+      <DependentUpon>price_change.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_showinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user_showinfo.Designer.cs">
+      <DependentUpon>user_showinfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="drugs_subuse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="drugs_subuse.Designer.cs">
+      <DependentUpon>drugs_subuse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pharma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pharma.Designer.cs">
+      <DependentUpon>pharma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="order_content.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="order_content.Designer.cs">
+      <DependentUpon>order_content.cs</DependentUpon>
+    </Compile>
+    <Compile Include="order_drugs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="order_drugs.Designer.cs">
+      <DependentUpon>order_drugs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="drugs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="drugs.Designer.cs">
+      <DependentUpon>drugs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="regist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="regist.Designer.cs">
+      <DependentUpon>regist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="search_drugs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="search_drugs.Designer.cs">
+      <DependentUpon>search_drugs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="search_firm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="search_firm.Designer.cs">
+      <DependentUpon>search_firm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="add_disease.resx">
+      <DependentUpon>add_disease.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_firm.resx">
+      <DependentUpon>add_firm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_pills.resx">
+      <DependentUpon>add_pills.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_price.resx">
+      <DependentUpon>add_price.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="drug_composition.resx">
+      <DependentUpon>drug_composition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="disease.resx">
+      <DependentUpon>disease.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="price_change.resx">
+      <DependentUpon>price_change.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_editinfo.resx">
+      <DependentUpon>user_editinfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="order_drugs_for_empl.resx">
+      <DependentUpon>order_drugs_for_empl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pharma_for_empl.resx">
+      <DependentUpon>pharma_for_empl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="price.resx">
+      <DependentUpon>price.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enter.resx">
+      <DependentUpon>enter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="firms.resx">
+      <DependentUpon>firms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_showinfo.resx">
+      <DependentUpon>user_showinfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="drugs_subuse.resx">
+      <DependentUpon>drugs_subuse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pharma.resx">
+      <DependentUpon>pharma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="drugs.resx">
+      <DependentUpon>drugs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="order_content.resx">
+      <DependentUpon>order_content.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="order_drugs.resx">
+      <DependentUpon>order_drugs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="regist.resx">
+      <DependentUpon>regist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="search_drugs.resx">
+      <DependentUpon>search_drugs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="search_firm.resx">
+      <DependentUpon>search_firm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logotype.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\log_pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dr+pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
